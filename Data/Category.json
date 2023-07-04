@@ -1,0 +1,59 @@
+[
+    {
+       "categoryID":"1",
+        "name":"Barbecue Crab",
+        "price":"$40",
+        "description":"Barbecure Crab is a tantalizing dish that combines the smoky flavors of barbecued meat with the succulent and delicate taste of crab. This delectable culinary creation starts with fresh and plump crab, which is seasoned with a blend of aromatic spices and herbs. The crab is then carefully grilled over an open flame or barbecued to perfection, resulting in a tantalizing combination of smoky and seafood flavors. The meat remains tender and juicy, while the smoky char adds a delightful depth to each bite. Barbecure Crab is a true treat for seafood lovers and barbecue enthusiasts alike, offering a unique and mouthwatering fusion of flavors that will leave your taste buds craving for more.",
+        "image":"https://eoffelde.sirv.com/image/Crab.jpg"
+
+    },
+    {
+       "categoryID":"1",
+        "name":"Smoky Steak",
+        "price":"$32",
+        "description":"Smoky Steak is a mouthwatering dish that is sure to delight any steak lover. This delectable creation features a juicy and tender cut of steak infused with the rich, smoky flavors that come from grilling or smoking the meat to perfection. The steak is carefully seasoned with a blend of spices and herbs to enhance its natural flavors and then cooked over an open flame or on a smoky grill. As the steak sizzles, the aroma of the smoky char fills the air, creating an enticing sensory experience. The result is a steak that boasts a delectable smoky crust on the outside, while remaining juicy and succulent on the inside. Each bite is a harmonious blend of meaty richness and smoky goodness, leaving a lingering, satisfying taste that will have you coming back for more. Whether enjoyed on its own or paired with your favorite side dishes, Smoky Steak is a true carnivorous delight that will satisfy even the most discerning palates.",
+        "image":"https://eoffelde.sirv.com/image/Steak.jpg"
+    },
+    {
+       "categoryID":"2",
+        "name":"Braised Fish",
+        "price":"$22",
+        "description":"Braised Fish is a delightful culinary creation that showcases the harmonious marriage of tender fish and flavorful braising techniques. This dish starts with a fresh and high-quality fish, such as cod, salmon, or sea bass, which is gently cooked in a flavorful liquid until it becomes tender and infused with the rich flavors of the braising liquid. The fish is typically seared beforehand to develop a golden crust, locking in its natural juices. The braising liquid, often a combination of broth, wine, herbs, and aromatics, imparts a depth of flavor and creates a luscious sauce that envelops the fish. As the fish simmers in the liquid, it absorbs the fragrant flavors, resulting in a melt-in-your-mouth texture and a delectable infusion of tastes. The braising process allows the fish to become incredibly tender, while the sauce adds a delightful richness and complexity to the overall dish. Whether served with a side of vegetables or accompanied by a bed of fragrant rice or mashed potatoes, Braised Fish offers a comforting and satisfying dining experience that highlights the delicate flavors of the fish in a tantalizing manner.",
+        "image":"https://eoffelde.sirv.com/image/Fish.jpg"
+    },
+    {
+       "categoryID":"2",
+        "name":"Chicken Sizzling",
+        "price":"$22",
+        "description":"Chicken Sizzling is a tantalizing dish that brings together tender and succulent pieces of chicken with sizzling and aromatic flavors. This culinary delight typically starts with marinated chicken that is seasoned with a blend of spices, herbs, and tangy sauces to enhance its natural taste. The chicken is then cooked on a sizzling hot skillet or griddle, creating a captivating display of steam and enticing aromas. As the chicken sizzles, it develops a delicious caramelized crust on the outside, while remaining juicy and flavorful on the inside. The combination of the high heat and sizzling presentation not only adds a visual appeal but also intensifies the flavors, resulting in a mouthwatering experience. The dish is often accompanied by a sizzling bed of onions, bell peppers, and other vegetables, adding a colorful and savory element to the presentation. The sizzling sound, along with the irresistible aroma, creates an anticipation that is only satisfied when you take the first bite. Each morsel of Chicken Sizzling offers a delightful blend of tender chicken, vibrant spices, and a burst of smoky, sizzling goodness.",
+        "image":"https://eoffelde.sirv.com/image/Sizzling.jpg"
+    },
+    {
+       "categoryID":"3",
+        "name":"Chicken Fry",
+        "price":"$10",
+        "description":"Chicken Fry is an absolute delight! I recently had the pleasure of indulging in this crispy and flavorful dish, and it exceeded all of my expectations. The chicken was perfectly cooked, with a golden and crunchy exterior that gave way to tender and juicy meat inside. The seasoning was spot-on, adding just the right amount of flavor to complement the natural taste of the chicken. Each bite was a delightful explosion of savory goodness that left me craving for more. What impressed me the most was the balance between the crispy coating and the moistness of the chicken. It was evident that great care was taken in the frying process to ensure that the chicken remained succulent and flavorful. Whether enjoyed as a main course or as a finger-food option, Chicken Fry is a crowd-pleaser that will satisfy even the most discerning palates. I highly recommend trying this dish for a truly memorable and satisfying dining experience.",
+        "image":"https://eoffelde.sirv.com/image/Chicken%20fry.jpg"
+    },
+    {
+       "categoryID":"4",
+        "name":"Beef BBQ",
+        "price":"$22",
+        "description":"Beef BBQ is an absolute treat for meat lovers! I recently had the pleasure of savoring this mouthwatering dish, and it left me thoroughly impressed. The beef was cooked to perfection, tender and succulent with a delectable smoky char on the outside. The barbecue sauce that accompanied the beef added a delightful sweetness and tanginess, perfectly complementing the rich flavors of the meat. Each bite was a burst of smoky goodness, with the meat melting in my mouth and leaving me craving for more. The attention to detail in the seasoning and grilling process was evident, as the beef was incredibly flavorful and moist. Whether enjoyed at a backyard gathering or a barbecue joint, Beef BBQ is a true crowd-pleaser. The combination of quality beef, expert grilling, and the perfect balance of flavors makes this dish an absolute standout. If you're a fan of barbecue and love tender, juicy beef, I highly recommend giving Beef BBQ a try. It's a mouthwatering experience that will leave you satisfied and coming back for seconds.",
+        "image":"https://eoffelde.sirv.com/image/Beef.jpg"
+    },
+    {
+       "categoryID":"4",
+        "name":"Special BBQ",
+        "price":"$10",
+        "description":"BBQ is a culinary delight that truly deserves all the praise it receives. I recently had the pleasure of indulging in this smoky and savory feast, and it left me in awe. The flavors were absolutely phenomenal, with a perfect balance of smokiness, sweetness, and tanginess. The meats, whether it was tender ribs, succulent pulled pork, or juicy chicken, were expertly cooked and infused with the unmistakable essence of barbecue. The slow cooking process and the careful attention to seasoning resulted in meat that was incredibly tender, flavorful, and melt-in-your-mouth delicious. The accompanying barbecue sauce was a true masterpiece, adding a delightful burst of flavor to every bite. What impressed me the most was the dedication to quality and authenticity. Whether it was a backyard cookout or a renowned barbecue joint, the commitment to using high-quality ingredients and the artistry in smoking and grilling were evident in every mouthwatering bite.",
+        "image":"https://eoffelde.sirv.com/image/BBQ.jpg"
+    },
+    {
+       "categoryID":"5",
+        "name":"Sea Shrimp",
+        "price":"$45",
+        "description":"Shrimp is an absolute delight for seafood enthusiasts! I recently had the pleasure of savoring these delectable crustaceans, and they left me thoroughly impressed. The shrimp were incredibly fresh, with a firm and succulent texture that was truly enjoyable. The flavor was sweet and briny, showcasing the essence of the sea. Whether they were grilled, sautéed, or served in a flavorful sauce, each bite was a burst of deliciousness. What impressed me the most was the versatility of shrimp in various culinary creations. They could be the star of a dish, like a classic shrimp scampi, or be incorporated into pasta, salads, or even tacos, adding a delightful seafood twist. The sheer variety of flavors and preparations is a testament to the versatility of shrimp. Whether enjoyed as an appetizer, main course, or part of a seafood feast, shrimp always manages to elevate the dining experience. ",
+        "image":"https://eoffelde.sirv.com/image/Shrimp.jpg"
+    }
+]
